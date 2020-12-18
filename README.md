@@ -45,5 +45,6 @@ Then use the dist folder you get.
 
 ## Acknowledgements
 
-Thank's to Traversy Media.  
-`https://www.youtube.com/user/TechGuyWeb`
+Thank's to:
+
+- ** Traversy Media** - [ Traversy Media](https://www.youtube.com/user/TechGuyWeb)
